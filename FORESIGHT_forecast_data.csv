@@ -1,0 +1,121 @@
+Forecast_Month,SKU,Product,Category,Forecast_Demand_Units,Weighted_Avg_Baseline,Trend_Units_Per_Month
+2026-01-01,SKU-001,Personal Product 1,Personal Care,184,187.0,-3.54
+2026-02-01,SKU-001,Personal Product 1,Personal Care,180,187.0,-3.54
+2026-03-01,SKU-001,Personal Product 1,Personal Care,176,187.0,-3.54
+2026-01-01,SKU-002,Office Product 2,Office Supplies,221,221.1,-0.09
+2026-02-01,SKU-002,Office Product 2,Office Supplies,221,221.1,-0.09
+2026-03-01,SKU-002,Office Product 2,Office Supplies,221,221.1,-0.09
+2026-01-01,SKU-003,Home Product 3,Home & Kitchen,124,126.7,-2.54
+2026-02-01,SKU-003,Home Product 3,Home & Kitchen,122,126.7,-2.54
+2026-03-01,SKU-003,Home Product 3,Home & Kitchen,119,126.7,-2.54
+2026-01-01,SKU-004,Office Product 4,Office Supplies,75,74.1,1.31
+2026-02-01,SKU-004,Office Product 4,Office Supplies,77,74.1,1.31
+2026-03-01,SKU-004,Office Product 4,Office Supplies,78,74.1,1.31
+2026-01-01,SKU-005,Office Product 5,Office Supplies,192,198.0,-5.74
+2026-02-01,SKU-005,Office Product 5,Office Supplies,187,198.0,-5.74
+2026-03-01,SKU-005,Office Product 5,Office Supplies,181,198.0,-5.74
+2026-01-01,SKU-006,Grocery Product 6,Grocery,116,117.9,-2.11
+2026-02-01,SKU-006,Grocery Product 6,Grocery,114,117.9,-2.11
+2026-03-01,SKU-006,Grocery Product 6,Grocery,112,117.9,-2.11
+2026-01-01,SKU-007,Home Product 7,Home & Kitchen,153,156.0,-3.54
+2026-02-01,SKU-007,Home Product 7,Home & Kitchen,149,156.0,-3.54
+2026-03-01,SKU-007,Home Product 7,Home & Kitchen,145,156.0,-3.54
+2026-01-01,SKU-008,Home Product 8,Home & Kitchen,79,81.8,-3.23
+2026-02-01,SKU-008,Home Product 8,Home & Kitchen,75,81.8,-3.23
+2026-03-01,SKU-008,Home Product 8,Home & Kitchen,72,81.8,-3.23
+2026-01-01,SKU-009,Home Product 9,Home & Kitchen,209,214.4,-5.34
+2026-02-01,SKU-009,Home Product 9,Home & Kitchen,204,214.4,-5.34
+2026-03-01,SKU-009,Home Product 9,Home & Kitchen,198,214.4,-5.34
+2026-01-01,SKU-010,Office Product 10,Office Supplies,154,151.6,2.89
+2026-02-01,SKU-010,Office Product 10,Office Supplies,157,151.6,2.89
+2026-03-01,SKU-010,Office Product 10,Office Supplies,160,151.6,2.89
+2026-01-01,SKU-011,Personal Product 11,Personal Care,73,73.4,-0.09
+2026-02-01,SKU-011,Personal Product 11,Personal Care,73,73.4,-0.09
+2026-03-01,SKU-011,Personal Product 11,Personal Care,73,73.4,-0.09
+2026-01-01,SKU-012,Home Product 12,Home & Kitchen,61,60.6,0.34
+2026-02-01,SKU-012,Home Product 12,Home & Kitchen,61,60.6,0.34
+2026-03-01,SKU-012,Home Product 12,Home & Kitchen,62,60.6,0.34
+2026-01-01,SKU-013,Office Product 13,Office Supplies,62,63.2,-0.77
+2026-02-01,SKU-013,Office Product 13,Office Supplies,62,63.2,-0.77
+2026-03-01,SKU-013,Office Product 13,Office Supplies,61,63.2,-0.77
+2026-01-01,SKU-014,Grocery Product 14,Grocery,69,72.0,-3.06
+2026-02-01,SKU-014,Grocery Product 14,Grocery,66,72.0,-3.06
+2026-03-01,SKU-014,Grocery Product 14,Grocery,63,72.0,-3.06
+2026-01-01,SKU-015,Personal Product 15,Personal Care,51,49.5,1.37
+2026-02-01,SKU-015,Personal Product 15,Personal Care,52,49.5,1.37
+2026-03-01,SKU-015,Personal Product 15,Personal Care,54,49.5,1.37
+2026-01-01,SKU-016,Grocery Product 16,Grocery,111,110.0,1.4
+2026-02-01,SKU-016,Grocery Product 16,Grocery,113,110.0,1.4
+2026-03-01,SKU-016,Grocery Product 16,Grocery,114,110.0,1.4
+2026-01-01,SKU-017,Personal Product 17,Personal Care,153,160.4,-7.34
+2026-02-01,SKU-017,Personal Product 17,Personal Care,146,160.4,-7.34
+2026-03-01,SKU-017,Personal Product 17,Personal Care,138,160.4,-7.34
+2026-01-01,SKU-018,Office Product 18,Office Supplies,76,78.1,-2.63
+2026-02-01,SKU-018,Office Product 18,Office Supplies,73,78.1,-2.63
+2026-03-01,SKU-018,Office Product 18,Office Supplies,70,78.1,-2.63
+2026-01-01,SKU-019,Electronics Product 19,Electronics,154,152.1,2.17
+2026-02-01,SKU-019,Electronics Product 19,Electronics,156,152.1,2.17
+2026-03-01,SKU-019,Electronics Product 19,Electronics,159,152.1,2.17
+2026-01-01,SKU-020,Personal Product 20,Personal Care,207,213.2,-6.51
+2026-02-01,SKU-020,Personal Product 20,Personal Care,200,213.2,-6.51
+2026-03-01,SKU-020,Personal Product 20,Personal Care,194,213.2,-6.51
+2026-01-01,SKU-021,Grocery Product 21,Grocery,115,120.3,-5.2
+2026-02-01,SKU-021,Grocery Product 21,Grocery,110,120.3,-5.2
+2026-03-01,SKU-021,Grocery Product 21,Grocery,105,120.3,-5.2
+2026-01-01,SKU-022,Office Product 22,Office Supplies,190,199.6,-9.66
+2026-02-01,SKU-022,Office Product 22,Office Supplies,180,199.6,-9.66
+2026-03-01,SKU-022,Office Product 22,Office Supplies,171,199.6,-9.66
+2026-01-01,SKU-023,Personal Product 23,Personal Care,103,107.5,-4.17
+2026-02-01,SKU-023,Personal Product 23,Personal Care,99,107.5,-4.17
+2026-03-01,SKU-023,Personal Product 23,Personal Care,95,107.5,-4.17
+2026-01-01,SKU-024,Electronics Product 24,Electronics,164,162.7,1.2
+2026-02-01,SKU-024,Electronics Product 24,Electronics,165,162.7,1.2
+2026-03-01,SKU-024,Electronics Product 24,Electronics,166,162.7,1.2
+2026-01-01,SKU-025,Electronics Product 25,Electronics,112,112.5,-0.17
+2026-02-01,SKU-025,Electronics Product 25,Electronics,112,112.5,-0.17
+2026-03-01,SKU-025,Electronics Product 25,Electronics,112,112.5,-0.17
+2026-01-01,SKU-026,Home Product 26,Home & Kitchen,171,167.5,3.63
+2026-02-01,SKU-026,Home Product 26,Home & Kitchen,175,167.5,3.63
+2026-03-01,SKU-026,Home Product 26,Home & Kitchen,178,167.5,3.63
+2026-01-01,SKU-027,Home Product 27,Home & Kitchen,189,195.4,-6.49
+2026-02-01,SKU-027,Home Product 27,Home & Kitchen,182,195.4,-6.49
+2026-03-01,SKU-027,Home Product 27,Home & Kitchen,176,195.4,-6.49
+2026-01-01,SKU-028,Grocery Product 28,Grocery,167,161.0,6.4
+2026-02-01,SKU-028,Grocery Product 28,Grocery,174,161.0,6.4
+2026-03-01,SKU-028,Grocery Product 28,Grocery,180,161.0,6.4
+2026-01-01,SKU-029,Personal Product 29,Personal Care,199,195.5,3.43
+2026-02-01,SKU-029,Personal Product 29,Personal Care,202,195.5,3.43
+2026-03-01,SKU-029,Personal Product 29,Personal Care,206,195.5,3.43
+2026-01-01,SKU-030,Personal Product 30,Personal Care,224,230.8,-7.03
+2026-02-01,SKU-030,Personal Product 30,Personal Care,217,230.8,-7.03
+2026-03-01,SKU-030,Personal Product 30,Personal Care,210,230.8,-7.03
+2026-01-01,SKU-031,Home Product 31,Home & Kitchen,152,150.6,1.74
+2026-02-01,SKU-031,Home Product 31,Home & Kitchen,154,150.6,1.74
+2026-03-01,SKU-031,Home Product 31,Home & Kitchen,156,150.6,1.74
+2026-01-01,SKU-032,Personal Product 32,Personal Care,86,86.0,-0.0
+2026-02-01,SKU-032,Personal Product 32,Personal Care,86,86.0,-0.0
+2026-03-01,SKU-032,Personal Product 32,Personal Care,86,86.0,-0.0
+2026-01-01,SKU-033,Personal Product 33,Personal Care,102,110.1,-8.43
+2026-02-01,SKU-033,Personal Product 33,Personal Care,93,110.1,-8.43
+2026-03-01,SKU-033,Personal Product 33,Personal Care,85,110.1,-8.43
+2026-01-01,SKU-034,Electronics Product 34,Electronics,180,179.8,-0.03
+2026-02-01,SKU-034,Electronics Product 34,Electronics,180,179.8,-0.03
+2026-03-01,SKU-034,Electronics Product 34,Electronics,180,179.8,-0.03
+2026-01-01,SKU-035,Home Product 35,Home & Kitchen,135,140.4,-5.89
+2026-02-01,SKU-035,Home Product 35,Home & Kitchen,129,140.4,-5.89
+2026-03-01,SKU-035,Home Product 35,Home & Kitchen,123,140.4,-5.89
+2026-01-01,SKU-036,Office Product 36,Office Supplies,148,152.2,-3.97
+2026-02-01,SKU-036,Office Product 36,Office Supplies,144,152.2,-3.97
+2026-03-01,SKU-036,Office Product 36,Office Supplies,140,152.2,-3.97
+2026-01-01,SKU-037,Home Product 37,Home & Kitchen,77,76.3,0.74
+2026-02-01,SKU-037,Home Product 37,Home & Kitchen,78,76.3,0.74
+2026-03-01,SKU-037,Home Product 37,Home & Kitchen,79,76.3,0.74
+2026-01-01,SKU-038,Office Product 38,Office Supplies,192,193.4,-1.74
+2026-02-01,SKU-038,Office Product 38,Office Supplies,190,193.4,-1.74
+2026-03-01,SKU-038,Office Product 38,Office Supplies,188,193.4,-1.74
+2026-01-01,SKU-039,Electronics Product 39,Electronics,86,83.6,2.34
+2026-02-01,SKU-039,Electronics Product 39,Electronics,88,83.6,2.34
+2026-03-01,SKU-039,Electronics Product 39,Electronics,91,83.6,2.34
+2026-01-01,SKU-040,Grocery Product 40,Grocery,173,169.0,4.2
+2026-02-01,SKU-040,Grocery Product 40,Grocery,177,169.0,4.2
+2026-03-01,SKU-040,Grocery Product 40,Grocery,182,169.0,4.2

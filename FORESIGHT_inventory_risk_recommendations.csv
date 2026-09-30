@@ -1,0 +1,41 @@
+SKU,Closing_Stock,Forecast_Demand_Units,Safety_Stock_Units,Projected_End_Stock,Risk_Level,Recommended_Order_Units,Recommendation
+SKU-039,80,86,24,-6,Stockout Risk,30,Urgent replenishment recommended
+SKU-020,198,207,21,-9,Stockout Risk,30,Urgent replenishment recommended
+SKU-037,98,77,32,21,Low Stock Risk,11,Plan replenishment
+SKU-015,28,51,37,-23,Stockout Risk,60,Urgent replenishment recommended
+SKU-014,116,69,38,47,Healthy,0,Maintain current inventory
+SKU-013,110,62,35,48,Healthy,0,Maintain current inventory
+SKU-012,70,61,54,9,Low Stock Risk,45,Plan replenishment
+SKU-011,109,73,33,36,Healthy,0,Maintain current inventory
+SKU-010,207,154,52,53,Healthy,0,Maintain current inventory
+SKU-009,135,209,45,-74,Stockout Risk,119,Urgent replenishment recommended
+SKU-008,100,79,28,21,Low Stock Risk,7,Plan replenishment
+SKU-007,107,153,59,-46,Stockout Risk,105,Urgent replenishment recommended
+SKU-006,137,116,16,21,Healthy,0,Maintain current inventory
+SKU-005,204,192,40,12,Low Stock Risk,28,Plan replenishment
+SKU-004,75,75,36,0,Low Stock Risk,36,Plan replenishment
+SKU-003,167,124,18,43,Healthy,0,Maintain current inventory
+SKU-002,230,221,41,9,Low Stock Risk,32,Plan replenishment
+SKU-001,125,184,16,-59,Stockout Risk,75,Urgent replenishment recommended
+SKU-016,95,111,27,-16,Stockout Risk,43,Urgent replenishment recommended
+SKU-017,113,153,18,-40,Stockout Risk,58,Urgent replenishment recommended
+SKU-018,84,76,17,8,Low Stock Risk,9,Plan replenishment
+SKU-019,121,154,16,-33,Stockout Risk,49,Urgent replenishment recommended
+SKU-036,227,148,33,79,Healthy,0,Maintain current inventory
+SKU-035,48,135,53,-87,Stockout Risk,140,Urgent replenishment recommended
+SKU-034,285,180,25,105,Healthy,0,Maintain current inventory
+SKU-033,52,102,16,-50,Stockout Risk,66,Urgent replenishment recommended
+SKU-032,107,86,17,21,Healthy,0,Maintain current inventory
+SKU-031,274,152,43,122,Healthy,0,Maintain current inventory
+SKU-030,342,224,28,118,Healthy,0,Maintain current inventory
+SKU-038,330,192,45,138,Healthy,0,Maintain current inventory
+SKU-029,285,199,39,86,Healthy,0,Maintain current inventory
+SKU-027,113,189,30,-76,Stockout Risk,106,Urgent replenishment recommended
+SKU-026,170,171,25,-1,Stockout Risk,26,Urgent replenishment recommended
+SKU-025,74,112,37,-38,Stockout Risk,75,Urgent replenishment recommended
+SKU-024,253,164,52,89,Healthy,0,Maintain current inventory
+SKU-023,141,103,16,38,Healthy,0,Maintain current inventory
+SKU-022,289,190,44,99,Healthy,0,Maintain current inventory
+SKU-021,160,115,47,45,Low Stock Risk,2,Plan replenishment
+SKU-028,145,167,17,-22,Stockout Risk,39,Urgent replenishment recommended
+SKU-040,69,173,21,-104,Stockout Risk,125,Urgent replenishment recommended
